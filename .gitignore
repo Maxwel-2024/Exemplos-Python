@@ -1,9 +1,4 @@
-# Ignorar a pasta do ambiente virtual
-Venvpontape/
-
-# Ignorar arquivos de cache do Python
+venvpontape/
 __pycache__/
 *.pyc
-
-# Ignorar configurações do VS Code
 .vscode/
