@@ -13,6 +13,6 @@
 
 * [Exercício 3](https://github.com/Maxwel-2024/Exemplos-Python/blob/main/Exerc%C3%ADcio%203.py): O código pede ao usuário para digitar sua idade e, depois, imprimi a seguinte mensagem: "Você tem X anos", onde X é a idade que o usuário digitou.
 
-## ***Tipos de Dados***
+## ***Tipos de Dados (int, float, strings, booleanos)***
 
-[Exercício 4](): Criando uma variável idade e adicionando um valor numérico inteiro a ela (não fracionado). Imprime na tela e verifica se é um número inteiro (int).
+[Exercício 4](https://github.com/Maxwel-2024/Exemplos-Python/blob/main/Exerc%C3%ADcio%204.py): Criando uma variável idade e adicionando um valor numérico inteiro a ela (não fracionado). Imprime na tela e verifica se é um número inteiro (int).
