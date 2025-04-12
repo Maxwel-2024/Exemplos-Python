@@ -15,4 +15,4 @@
 
 ## ***Tipos de Dados (int, float, strings, booleanos)***
 
-*[Exercício 4](https://github.com/Maxwel-2024/Exemplos-Python/blob/main/Exerc%C3%ADcio%204.py): Criando uma variável idade e adicionando um valor numérico inteiro a ela (não fracionado). Imprime na tela e verifica se é um número inteiro (int).
+* [Exercício 4](https://github.com/Maxwel-2024/Exemplos-Python/blob/main/Exerc%C3%ADcio%204.py): Criando uma variável idade e adicionando um valor numérico inteiro a ela (não fracionado). Imprime na tela e verifica se é um número inteiro (int).
