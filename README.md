@@ -16,3 +16,5 @@
 ## ***Tipos de Dados (int, float, strings, booleanos)***
 
 * [Exercício 4](https://github.com/Maxwel-2024/Exemplos-Python/blob/main/Exerc%C3%ADcio%204.py): Criando uma variável idade e adicionando um valor numérico inteiro a ela (não fracionado). Imprime na tela e verifica se é um número inteiro (int).
+
+* [Exercício 5](): Criado uma variável chamada altura e atribuido a ela o valor da sua altura em metros, usando um número float que são números fracionado exemplo: 1,75; 1,90 entre outros. E então mostre o resultado com print.
