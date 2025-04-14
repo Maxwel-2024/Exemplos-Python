@@ -11,6 +11,8 @@
 
 * [Exercício 2](https://github.com/Maxwel-2024/Exemplos-Python/blob/main/Exerc%C3%ADcios%202.py): Adicionado meu nome na variável "nome", e feito print na tela.
 
+* [Exercício 2.1](https://github.com/Maxwel-2024/Exemplos-Python/blob/main/Exerc%C3%ADcio%202.1.py): Exercício 2.1 adicionado exercícios, formas de Contatenação, para juntar textos ou seja as strings.
+
 * [Exercício 3](https://github.com/Maxwel-2024/Exemplos-Python/blob/main/Exerc%C3%ADcio%203.py): O código pede ao usuário para digitar sua idade e, depois, imprimi a seguinte mensagem: "Você tem X anos", onde X é a idade que o usuário digitou.
 
 ## ***Tipos de Dados (int, float, strings, booleanos)***
