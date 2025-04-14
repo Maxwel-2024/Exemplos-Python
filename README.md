@@ -19,4 +19,4 @@
 
 * [Exercício 5](https://github.com/Maxwel-2024/Exemplos-Python/blob/main/Exerc%C3%ADcio%205.py): Criado uma variável chamada altura e atribuido a ela o valor da sua altura em metros, usando um número float que são números fracionado exemplo: 1,75; 1,90 entre outros. E então mostre o resultado com print.
 
-* [Exercício 6](https://github.com/Maxwel-2024/Exemplos-Python/blob/main/Exerc%C3%ADcio%206.py): Atribuindo valores booleanos, inteiros (int), e String (str para texto) as variáeis, imprimindo a mesma e categorizando o tipo de variáveis na tela, como in, bool e str.
+* [Exercício 6](https://github.com/Maxwel-2024/Exemplos-Python/blob/main/Exerc%C3%ADcio%206.py): Atribuindo valores booleanos, inteiros (int), e String (str para texto) em todas às variáeis, imprimindo a mesma e categorizando o tipo de variáveis na tela, como int, bool e str.
