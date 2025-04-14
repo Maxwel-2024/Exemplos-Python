@@ -2,3 +2,4 @@ venvpontape/
 __pycache__/
 *.pyc
 .vscode/
+Testes.py
